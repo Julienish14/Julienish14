@@ -4,15 +4,17 @@ Hi 👋 My name is Julien.
   </h1>
   
 
-<h3 align="center">A passionate full-stack developer.</h3>
+<h3 align="center">You are welcome to my GitHub Page!</h3>
 
+</br> </br>
 <img align="right" alt="Coding" width="300" src="https://julienish14.github.io/Julienish14/images/Ry6p.gif">
 
 I’m a full-stack developer who loves to explore new technologies and collaborate on different projects with others. I enjoy creating solutions that are user-friendly, efficient and scalable.
 
+### About Me 😎
 * 🌍  I'm based in Kigali-Rwanda
 * ✉️  You can contact me at [julienishimwe14@gmail.com](mailto:julienishimwe14@gmail.com)
-* 🧠  I'm learning Python.
+* 🧠  I'm currently learning Python.
 * 🤝  I'm open to collaborating on Anything related to web development.
 * ⚡  I’m a master of debugging. I can find and fix any error in any code. Except for the ones in my own code. Those are impossible. 😅
 
